@@ -31,16 +31,7 @@ function App() {
       <Skills />
       <Project />
       <Contact />
-      {/* <BrowserRouter>
-      <Link to='/skills' />
-        <Routes>
-        <Route exact path='/' element={<Banner />} />
-        <Route exact path='skills' element={<Skills />} />
-            <Route exact path='connect' element={<Contact />} />
-        </Routes>
-      </BrowserRouter> */}
       <Footer />
-      {/* <Footer1 /> */}
     </div>
     </>
   )
