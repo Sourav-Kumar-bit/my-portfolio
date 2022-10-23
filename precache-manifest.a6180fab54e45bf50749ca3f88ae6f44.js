@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "69c2dbb818b88575dbfb",
+    "revision": "200c4c1e5186e28aeca9",
     "url": "/my-portfolio/static/css/main.9a0a197a.chunk.css"
   },
   {
-    "revision": "69c2dbb818b88575dbfb",
-    "url": "/my-portfolio/static/js/main.7ec1d000.chunk.js"
+    "revision": "200c4c1e5186e28aeca9",
+    "url": "/my-portfolio/static/js/main.91de1b8e.chunk.js"
   },
   {
     "revision": "7715b3c223a96b7e4ae0",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/githubIcon.13390fa3.svg"
   },
   {
-    "revision": "c1a93a4272c70490eaeab9fd9906535e",
-    "url": "/my-portfolio/static/media/My Resume.c1a93a42.pdf"
+    "revision": "b6d00bb6caab0c4ab03593dc172e368f",
+    "url": "/my-portfolio/static/media/Resume.b6d00bb6.pdf"
   },
   {
     "revision": "4aaf7b6890530471fb1fdd02b1c6f6ef",
@@ -68,8 +68,8 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/contact-img2.17fcbbbd.png"
   },
   {
-    "revision": "4ea3794d631bedab7999678f46b0a162",
-    "url": "/my-portfolio/static/media/CentraNo2-Bold.4ea3794d.ttf"
+    "revision": "a29719b87792f87b897473bcf0be4d46",
+    "url": "/my-portfolio/static/media/spinning-circles.a29719b8.svg"
   },
   {
     "revision": "63911e8535278ced52b8a37e819f6f5d",
@@ -80,8 +80,8 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/CentraNo2-Book.386f0594.ttf"
   },
   {
-    "revision": "a29719b87792f87b897473bcf0be4d46",
-    "url": "/my-portfolio/static/media/spinning-circles.a29719b8.svg"
+    "revision": "4ea3794d631bedab7999678f46b0a162",
+    "url": "/my-portfolio/static/media/CentraNo2-Bold.4ea3794d.ttf"
   },
   {
     "revision": "832974d1a8369962b0fdb3077b820961",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/sky7.f17438d8.jpg"
   },
   {
-    "revision": "c492ac60c4062e9c56e66268ff93558f",
+    "revision": "9d646763891568f880a4e0312ce19a74",
     "url": "/my-portfolio/index.html"
   }
 ];
