@@ -72,16 +72,16 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/CentraNo2-Bold.4ea3794d.ttf"
   },
   {
-    "revision": "63911e8535278ced52b8a37e819f6f5d",
-    "url": "/my-portfolio/static/media/CentraNo2-Medium.63911e85.ttf"
-  },
-  {
     "revision": "a29719b87792f87b897473bcf0be4d46",
     "url": "/my-portfolio/static/media/spinning-circles.a29719b8.svg"
   },
   {
     "revision": "386f05946a76935fcabf319affff517a",
     "url": "/my-portfolio/static/media/CentraNo2-Book.386f0594.ttf"
+  },
+  {
+    "revision": "63911e8535278ced52b8a37e819f6f5d",
+    "url": "/my-portfolio/static/media/CentraNo2-Medium.63911e85.ttf"
   },
   {
     "revision": "832974d1a8369962b0fdb3077b820961",
