@@ -18,13 +18,13 @@ export default function Banner1() {
                                 Hi Everyone, I am <b className="purple">Sourav Kumar</b> from <b className="purple">Jharkhand, India.</b><br />
                                 I am a 2020 IMSC passout in Applied Mathematics from Central University of Jharkhand,<br /> currently working as a <b className="purple">Fullstack Developer</b> at <b className="purple">Infosys Ltd.</b>
                                 <br />
-                                <br />I am fluent in programming languages like
+                                <br />I am proficient in programming languages like
                                 <i>
                                     <b className="purple"> Java, Javascript and Python. </b>
                                 </i>
                                 <br />
                                 <br />
-                                My Interest's lies in latest
+                                My Interest's lie in latest
                                 <i>
                                     <b className="purple"> Web Technologies, Machine Learning and AI.</b>
                                 </i>

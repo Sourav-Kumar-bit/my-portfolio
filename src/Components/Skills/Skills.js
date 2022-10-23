@@ -63,7 +63,7 @@ export default function Skills() {
                 </Row>
                 <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
                     <h1 className="project-heading">
-                        <strong className="purple">Tools </strong>I use
+                        <strong className="purple">Tools </strong>I Use
                     </h1>
                     <Col xs={4} md={2} className="tech-icons" onClick={() => window.open('https://code.visualstudio.com/docs/')}>
                         <DiVisualstudio />
