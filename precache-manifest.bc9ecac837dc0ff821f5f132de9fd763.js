@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "11db8a8cee33ace4dd73",
+    "revision": "149ba9c3188fedecab71",
     "url": "/my-portfolio/static/css/main.9a0a197a.chunk.css"
   },
   {
-    "revision": "11db8a8cee33ace4dd73",
-    "url": "/my-portfolio/static/js/main.1b0af2e3.chunk.js"
+    "revision": "149ba9c3188fedecab71",
+    "url": "/my-portfolio/static/js/main.0eee921f.chunk.js"
   },
   {
     "revision": "7715b3c223a96b7e4ae0",
@@ -72,16 +72,16 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/spinning-circles.a29719b8.svg"
   },
   {
-    "revision": "63911e8535278ced52b8a37e819f6f5d",
-    "url": "/my-portfolio/static/media/CentraNo2-Medium.63911e85.ttf"
-  },
-  {
     "revision": "4ea3794d631bedab7999678f46b0a162",
     "url": "/my-portfolio/static/media/CentraNo2-Bold.4ea3794d.ttf"
   },
   {
     "revision": "386f05946a76935fcabf319affff517a",
     "url": "/my-portfolio/static/media/CentraNo2-Book.386f0594.ttf"
+  },
+  {
+    "revision": "63911e8535278ced52b8a37e819f6f5d",
+    "url": "/my-portfolio/static/media/CentraNo2-Medium.63911e85.ttf"
   },
   {
     "revision": "832974d1a8369962b0fdb3077b820961",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/sky7.f17438d8.jpg"
   },
   {
-    "revision": "06dbfcf6e42f55a5ce8c59ec9a3a733b",
+    "revision": "5e76c9581f971458b9aeb49e4feb87fe",
     "url": "/my-portfolio/index.html"
   }
 ];
