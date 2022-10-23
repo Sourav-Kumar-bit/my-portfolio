@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a77ea0819cc42110265a",
+    "revision": "b61b87caf7e1cfe17fbf",
     "url": "/my-portfolio/static/css/main.9a0a197a.chunk.css"
   },
   {
-    "revision": "a77ea0819cc42110265a",
-    "url": "/my-portfolio/static/js/main.132d3e23.chunk.js"
+    "revision": "b61b87caf7e1cfe17fbf",
+    "url": "/my-portfolio/static/js/main.1354cd9a.chunk.js"
   },
   {
     "revision": "7715b3c223a96b7e4ae0",
@@ -68,20 +68,20 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/contact-img2.17fcbbbd.png"
   },
   {
-    "revision": "4ea3794d631bedab7999678f46b0a162",
-    "url": "/my-portfolio/static/media/CentraNo2-Bold.4ea3794d.ttf"
-  },
-  {
     "revision": "386f05946a76935fcabf319affff517a",
     "url": "/my-portfolio/static/media/CentraNo2-Book.386f0594.ttf"
+  },
+  {
+    "revision": "63911e8535278ced52b8a37e819f6f5d",
+    "url": "/my-portfolio/static/media/CentraNo2-Medium.63911e85.ttf"
   },
   {
     "revision": "a29719b87792f87b897473bcf0be4d46",
     "url": "/my-portfolio/static/media/spinning-circles.a29719b8.svg"
   },
   {
-    "revision": "63911e8535278ced52b8a37e819f6f5d",
-    "url": "/my-portfolio/static/media/CentraNo2-Medium.63911e85.ttf"
+    "revision": "4ea3794d631bedab7999678f46b0a162",
+    "url": "/my-portfolio/static/media/CentraNo2-Bold.4ea3794d.ttf"
   },
   {
     "revision": "832974d1a8369962b0fdb3077b820961",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/sky7.f17438d8.jpg"
   },
   {
-    "revision": "f9d9b4843a50527cd9160762fdc87f5f",
+    "revision": "43c45b8e1898ba27c1079bb191d26d44",
     "url": "/my-portfolio/index.html"
   }
 ];
