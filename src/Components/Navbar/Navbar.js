@@ -4,7 +4,7 @@ import { useEffect, useState } from "react"
 import Swal from 'sweetalert2';
 import navIcon1 from '../../assets/img/linkedinIcon.svg'
 import navIcon4 from '../../assets/img/githubIcon.svg'
-import resume from '../../assets/img/My Resume.pdf'
+import resume from '../../assets/img/Resume.pdf'
 import {
     AiOutlineHome,
     AiOutlineFundProjectionScreen,
